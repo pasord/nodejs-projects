@@ -1,0 +1,6 @@
+# Dependency directories
+# 也会 ignore 里的 node_modules 
+node_modules/
+
+# Mac os
+.DS_Store
