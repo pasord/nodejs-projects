@@ -1,11 +1,7 @@
 # 描述
 
-https://www.youtube.com/watch?v=b8ZUb_Okxro&ab_channel=CodeWithAntonio
-在本视频中，我们将使用 Node.js、Express 和 TypeScript 构建 REST API。我们还将使用 MongoDB 作为我们的数据库。这是一份完整的指南，将带您从头到尾创建一个有效的 REST API。
-
-作者 Github 存储库：https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial
-
-B 站 https://www.bilibili.com/video/BV18h411u76K
+A REST API With Node, Express, TypeScript & MongoDB + Authentication
+使用 Node.js、Express 和 TypeScript 构建 REST API。使用 MongoDB 作为我们的数据库。从头到尾创建一个有效的 REST API。
 
 ## 安装请求相关包和@types
 

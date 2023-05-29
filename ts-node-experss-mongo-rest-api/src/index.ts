@@ -25,8 +25,9 @@ server.listen(8080, () => {
   console.log("Server running on http://localhost:8080/");
 });
 
+// <password> 密码要整体替换
 const MONGO_URL =
-  "mongodb+srv://pasord:I1mytKf5MRk9AZCs@cluster0.i28rhye.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://pasord:<password>@cluster0.i28rhye.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose.Promise = Promise;
 mongoose.connect(MONGO_URL);
